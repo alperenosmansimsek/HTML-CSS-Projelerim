@@ -1,0 +1,75 @@
+/* header */
+
+.header {
+    height: 70px;
+    display: flex;
+    float: right;
+    text-align: center;
+
+}
+.profile {
+    border-radius: 40px;
+    margin-right: 20px;
+    margin-top: 12px;
+}
+.underline {
+    text-decoration: none;
+    color: black;
+    margin-top: 20px;
+    margin: auto;
+    margin-right: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+}
+.dots {
+    margin: 15px;
+}
+.underline:hover {
+    text-decoration: underline;
+}
+
+/* image */
+
+.image {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    text-align: center;
+}
+
+/* search */
+
+.search {
+    text-align: center;
+    margin-top: 40px;
+    border: 1px solid white;
+}
+.dikdortgen {
+    width: 98%;
+    height: 200%;
+    text-align: center;
+    border: 1px solid white;
+}
+.fa {
+    text-align: center;
+    align-items: center;
+}
+.arama table {
+    text-align: center;
+    align-items: center;
+    width: 50%;
+    height: 3%;
+    border: 1px solid black;
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
+.arama table .search {
+    text-align: center;
+    margin-top: 30px;
+    border: 1px solid white;
+}
+.ikon {
+    width: 5%;
+}
