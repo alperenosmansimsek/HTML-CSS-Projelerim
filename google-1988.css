@@ -1,0 +1,55 @@
+.google img {
+    align-items: center;
+    margin-top: 0;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    text-align: center;
+}
+.search {
+    text-align: center;
+    align-items: center;
+    background-color: #EEEEEE;
+    width: 90%;
+    margin-left: 5%;
+}
+.search form label input {
+    width: 300px;
+}
+.google {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.top-footer {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    background-color: #62B3AA;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.container {
+    text-align: center;
+    align-items: center;
+    background-color: #62B3AA;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid white;
+    border-spacing: 1px;
+}
+.boxbox {
+    display: flex;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+/* footer */
+
+h6 {
+    text-align: center;
+}
